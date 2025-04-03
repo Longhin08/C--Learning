@@ -1,0 +1,7 @@
+C:\repositórios GitHub\C#\IMC-Calc\bin\Debug\IMC-Calc.exe.config
+C:\repositórios GitHub\C#\IMC-Calc\bin\Debug\IMC-Calc.exe
+C:\repositórios GitHub\C#\IMC-Calc\bin\Debug\IMC-Calc.pdb
+C:\repositórios GitHub\C#\IMC-Calc\obj\Debug\IMC-Calc.csproj.AssemblyReference.cache
+C:\repositórios GitHub\C#\IMC-Calc\obj\Debug\IMC-Calc.csproj.CoreCompileInputs.cache
+C:\repositórios GitHub\C#\IMC-Calc\obj\Debug\IMC-Calc.exe
+C:\repositórios GitHub\C#\IMC-Calc\obj\Debug\IMC-Calc.pdb
